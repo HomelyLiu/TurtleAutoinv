@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title:ainv_自动邀请
+## Notes:自动邀请指定密语内容的玩家进入组队. 命令输入/ainv info，有详细的设置教程.
+## Author:牛牛，更新地址: https://github.com/HomelyLiu/TurtleAutoinv
+## Version: 1.0
+autoInv.lua
